@@ -1,0 +1,11 @@
+Package: NTC
+Type: Package
+Title: Name that color
+Version: 0.1.0
+Author: Patrice Godard
+Maintainer: Patrice Godard <patrice.godard@gmail.com>
+Description: Find out the name of the closest matching color. Based on the
+    ntc js developped by Chirag Mehta - http://chir.ag/projects/ntc.
+License: Creative Commons License
+LazyData: TRUE
+RoxygenNote: 5.0.1
